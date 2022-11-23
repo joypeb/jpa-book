@@ -18,6 +18,4 @@ public class Book {
     int publisherId;
     int authorId;
 
-
-
 }
